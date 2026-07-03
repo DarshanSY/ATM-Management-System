@@ -17,6 +17,3 @@ bin/
 # Ignore log files
 *.log
 **/*.log
-
-# Ignore local batch/SQL tools if not needed (optional, keeping them for running)
-# setup_db.sql
