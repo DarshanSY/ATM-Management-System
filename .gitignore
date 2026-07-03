@@ -1,0 +1,22 @@
+# Ignore local MySQL database folder
+mysql_data/
+
+# Ignore compiled class files
+bin/
+**/bin/
+
+# Ignore Eclipse metadata
+.metadata/
+.settings/
+**/.settings/
+.classpath
+.project
+**/.classpath
+**/.project
+
+# Ignore log files
+*.log
+**/*.log
+
+# Ignore local batch/SQL tools if not needed (optional, keeping them for running)
+# setup_db.sql
